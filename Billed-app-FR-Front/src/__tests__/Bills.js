@@ -79,7 +79,7 @@ describe("Given I am connected as an employee", () => {
     });
 
     /**
-     * Open Modal on click
+     * Open Modal on click yala
      */
 
     test("When I click on eye-icon, modal opens", () => {
