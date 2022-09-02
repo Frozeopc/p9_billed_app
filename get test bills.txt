@@ -1,0 +1,5 @@
+local storage def
+122 json stignify converti l'obejt en chaine de carctere
+set attribute
+append insert
+router = gere la navigation a l'interieur du projet

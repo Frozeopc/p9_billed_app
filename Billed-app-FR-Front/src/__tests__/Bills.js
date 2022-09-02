@@ -54,7 +54,7 @@ describe("Given I am connected as an employee", () => {
 
       expect(fetchedBills.length).toBe(4)
     })
-    //Bills trié//
+    //Bills trié//bug1
     test("Then bills should be ordered from earliest to latest", () => {
 
       document.body.innerHTML = BillsUI({ data: bills });
@@ -79,7 +79,7 @@ describe("Given I am connected as an employee", () => {
     });
 
     /**
-     * Open Modal on click yala
+     * Open Modal on click 
      */
 
     test("When I click on eye-icon, modal opens", () => {

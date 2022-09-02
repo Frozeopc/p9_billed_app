@@ -1,0 +1,3 @@
+Mock def:
+
+objet simulé qui est crée dans le but de tester le comportement d'autres objets reel il possede la meme stucture que l'objet qu'ils représentent et renvoient des réponses prédéfinies
